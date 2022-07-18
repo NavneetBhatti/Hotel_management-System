@@ -1,0 +1,89 @@
+.nav{
+	background-color:#116466!important;
+}
+.font{
+	color:white!important;
+	font-size:20px;
+	padding:7px!important;
+}
+.logo{
+	font-size:23px;
+	margin-left:30px;
+	color:#ffcb9a!important;
+}
+.nav-item{
+	padding:6px !important;
+}
+	a.link:hover{
+		background-color:#ffcb9a;
+	}
+
+.caption{
+	margin-bottom:90px;
+	font-size:50px;
+	color:yellow;
+	font-weight:bolder;
+}
+.jumbotron{
+	background-color:#ffcb9a!important;
+	
+}
+.jumbo{
+	color:#116446;
+}
+.box {
+	float:left;
+	width:30%;
+	padding:17px;
+}
+.container{
+width:90%;
+margin:auto;
+overflow:hidden;
+}
+.gallery{
+	background-color:#d1dae2;
+	margin-bottom:30px;
+}
+ .footer
+ {
+	 background-color:#333;
+ }
+ .contact{
+	 color:white;
+	 margin-top:60px;
+ }
+ .img
+ {
+	 margin-top:20px;
+	 margin-bottom:10px;
+ }
+ h5{
+	 color:white;
+	 margin-bottom:75px;
+ }
+ #contact{
+	 margin-bottom:17px!important;
+ }
+ .card{
+	padding-left:6px;
+}
+.image{margin-top:35px;}
+.rent{
+	margin-top:67px;
+	color:dark red;
+	}
+.bg{
+	background-color:#ffcb9a!important;
+}	
+.rs{
+	margin-right:70px;
+
+}
+.type{
+	color:DarkRed;
+}
+.rentmeal{
+	margin-top:40px;
+	color:dark red;
+	}

@@ -1,0 +1,27 @@
+ .card .card-header{
+	width:100%;
+	 background-color:#ffcb9a!important;
+}
+h3{
+	margin-left:30%;
+	color:#116466;
+}
+.bg{
+	background-color:#d1e8e2;
+}
+label{
+	color:black;
+}
+.margin{
+    margin-top:90px;
+}
+.logo{
+    font-size:40px;
+}
+body{
+background-color:#116466;
+}
+.room{
+	color:white!important;
+	font-size:40px;
+}
